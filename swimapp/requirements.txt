@@ -1,0 +1,4 @@
+Flask==3.0.0
+sqlalchemy==2.0.22
+bcrypt==4.0.1
+flask-cors==4.0.0
